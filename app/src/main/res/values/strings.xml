@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QLNV customlistview demo</string>
+    <string name="action_new">New</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_activity_main_thongtin">MainThongtin</string>
+    <string name="title_activity_mainchitiet">Mainchitiet</string>
+</resources>
